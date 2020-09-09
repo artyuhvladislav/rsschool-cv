@@ -15,6 +15,7 @@ I'm trying to improve my skills everyday. At this moment have good skills at : J
 > 4.2 CSS; 
 > 4.3 HTML; 
 > 4.4 REACT;
+> 4. 5 REDUX
 ### --------------------------------------------------------------------------------------------------------
 
 
