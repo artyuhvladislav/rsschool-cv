@@ -7,7 +7,7 @@
 
 ### 3. SUMMARY 
 Hello, my name is Vlad and I'm junior front-end developer. I'm creating different websites.
-I'm trying to improve my skills everyday. At this moment have good skills at : JS, React, Jquery, Bootstrap.
+I'm trying to improve my skills everyday. At this moment have good skills at : JS, React, Bootstrap.
 ### --------------------------------------------------------------------------------------------------------
 
 ### 4. SKILLS
@@ -15,7 +15,7 @@ I'm trying to improve my skills everyday. At this moment have good skills at : J
 > 4.2 CSS; 
 > 4.3 HTML; 
 > 4.4 REACT;
-> 4. 5 REDUX
+> 4.5 REDUX
 ### --------------------------------------------------------------------------------------------------------
 
 
