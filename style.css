@@ -1,0 +1,15 @@
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+p {
+    font-style: italic;
+}
+
+img {
+    width: 100px;
+}
+section h2 {
+    color: blueviolet;
+}
